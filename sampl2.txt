@@ -1,2 +1,0 @@
-sampl2.txt
-file merge conflict
